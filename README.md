@@ -1,5 +1,6 @@
 # HotMC Parser
 ![Logo of HotMC](logo.png)
+
 **A parser for HotMC.ru that automatically:**
 * Registers accounts
 * Rates Minecraft servers with 5 stars
